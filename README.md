@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeAnut8250
+- 👋 Hi, I’m PeAnut
 - 👀 I’m interested in ...AI,ML,DSA,& Many more 
 - 🌱 I’m currently learning ...JS, PYTHON 
 - 💞️ I’m looking to collaborate on ...
