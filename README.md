@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Human Scaning device <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with  Backend & Security <br>🌱 I’m currently learning  Cybersecurity and python <br>💬 Ask me about Anything <br>⚡ Fun fact i am i student who loves to build new things and thinker with hardwares and contribute to new projects and learn from them I'm happy to help and learn
+🔭 I’m currently working on  Human Scaning device <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with  Backend & Security <br>🌱 I’m currently learning  Cybersecurity and python <br>💬 Ask me about Anything <br>⚡ Fun fact i am a student who loves to build new things and tinker with hardwares and contribute to new projects and learn from them I'm happy to help and learn.
 
 
 ## 🌐 Socials:
