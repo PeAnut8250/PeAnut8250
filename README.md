@@ -27,7 +27,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PeAnut8250&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PeAnut8250&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PeAnut8250&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PeAnut8250&layout=compact&theme=tokyonight)
 ---
 
 ## 🏢 Organization
