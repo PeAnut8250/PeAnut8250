@@ -1,9 +1,9 @@
 
 
-# Hi , I'm Soumya Sarkar
+# Hi , I'm PeAnut
 
 ###  | Owner @Veda Tech 🚀
-## 🧑‍💻 About Me
+##    About Me
 - 🚀 Building my own company → Veda Technology  
 - 🤝 Love connecting with new people  
 - ⚡ Strong team player  
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##   Tech Stack
 
 ![Tech](https://skillicons.dev/icons?i=android,angular,html,arduino,aws,blender,c,cpp,django,docker,express,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,photoshop,postman,python,rails,react,ts,unity,unreal,webpack)
 
