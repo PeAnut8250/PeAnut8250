@@ -50,3 +50,7 @@
 
 ## 📬 Contact
 📧 soumyasarkar@gmail.com
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/PeAnut8250/PeAnut8250/blob/output/github-contribution-grid-snake.svg)
