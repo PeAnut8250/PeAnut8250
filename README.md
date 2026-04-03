@@ -2,12 +2,12 @@
 
 # Hi , I'm PeAnut
 
-###  | Owner @Veda Tech 🚀
+###  | Owner @Veda Tech 
 ##    About Me
-- 🚀 Building my own company → Veda Technology  
-- 🤝 Love connecting with new people  
-- ⚡ Strong team player  
-- 🧠 Always learning and improving  
+-   Building my own company → Veda Technology  
+-   Love connecting with new people  
+-   Strong team player  
+-   Always learning and improving  
 
 
 
@@ -26,29 +26,29 @@
 ![Tech](https://skillicons.dev/icons?i=android,angular,html,arduino,aws,blender,c,cpp,django,docker,express,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,photoshop,postman,python,rails,react,ts,unity,unreal,webpack)
 
 ---
-## 📊 GitHub Stats
+##   GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PeAnut8250&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+##   GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PeAnut8250&theme=tokyonight)
 
 ---
 
-## 📈 Top Languages
+##   Top Languages
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PeAnut8250&layout=compact&theme=tokyonight)
 ---
 
-## 🏢 Organization
-🚀 Veda Technology  
+##   Organization
+
 [![GitHub Org](https://img.shields.io/badge/Veda%20Tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veda-Technology-org)
 
 ---
 
-## 🐍 Contribution Snake
+##   Contribution Snake
 
 ![Snake animation](https://github.com/PeAnut8250/PeAnut8250/blob/output/github-contribution-grid-snake.svg)
