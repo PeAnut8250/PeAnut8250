@@ -1,6 +1,6 @@
 
 
-#                                                        Hi , I'm PeAnut
+#   Hi , I'm PeAnut
 
 ###  | Owner @Veda Tech 
 ##    About Me
