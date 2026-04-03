@@ -33,13 +33,13 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PeAnut8250&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeAnut8250&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeAnut8250&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeAnut8250&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 ## 🏢 Organization
