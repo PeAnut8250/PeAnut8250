@@ -1,8 +1,12 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Builder+@+Veda+Tech;Always+Learning" />
-</p>
+<div align="center">
+
+<h1>Hi, I'm PeAnut 👋</h1>
+
+<h3>Owner @ Veda Tech 🚀</h3>
+
+</div>
 
 ##    About Me
 -   Building my own company → Veda Technology  
