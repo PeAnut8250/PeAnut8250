@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+,+I'm+PeAnut;+Owner+@Veda+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+,+I'm+PeAnut;+Owner+@Regit+Code" />
 </p>
 
 ##    About Me
--   Building my own company → Veda Technology  
+-   Building my own company → Regit Code  
 -   Love connecting with new people  
 -   Strong team player  
 -   Always learning and improving  
