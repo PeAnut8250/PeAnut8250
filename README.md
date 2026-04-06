@@ -16,7 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://my-portfolio-inky-sigma-75.vercel.app/potfolio.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sarkar-49ab00287)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WySQQNnQ)
-[![GitHub Org](https://img.shields.io/badge/Regit%20Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Veda-Technology-org](https://github.com/Regit-Code-Org))
+[![GitHub Org](https://img.shields.io/badge/Regit%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Regit-Code-Org)
 [![Email](https://img.shields.io/badge/Contact-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyasarkar2003@gmail.com)
 
 ---
