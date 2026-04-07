@@ -45,7 +45,7 @@
 
 ##   Organization
 
-[![GitHub Org](https://img.shields.io/badge/Veda%20Tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veda-Technology-org)
+[![GitHub Org](https://img.shields.io/badge/Regit%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Regit-Code-Org)
 
 ---
 
