@@ -18,7 +18,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WySQQNnQ)
 [![GitHub Org](https://img.shields.io/badge/Regit%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Regit-Code-Org)
 [![Email](https://img.shields.io/badge/Contact-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyasarkar2003@gmail.com)
-<a href="https://www.regitcode.in/"><img src="regitlogo.png" height="28" style="vertical-align:middle"><img src="https://img.shields.io/badge/Regit%20Code-000?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"></a>
+<a href="https://www.regitcode.in/"><img src="regitlogo.png" height="28" alt="RegitCode" style="vertical-align:middle; margin-right: 5px;"></a>
 
 ---
 
