@@ -18,7 +18,7 @@
 
 ##   Tech Stack
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28" align="center"> &nbsp; ![Tech](https://skillicons.dev/icons?i=angular,html,arduino,aws,blender,c,cpp,django,docker,express,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,photoshop,postman,python,rails,react,ts,unity,unreal,webpack,github,supabase,swift)
+![Tech](https://skillicons.dev/icons?i=androidstudio,angular,html,arduino,aws,blender,c,cpp,django,docker,express,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,photoshop,postman,python,rails,react,ts,unity,unreal,webpack,github,supabase,swift)
 ---
 ##   GitHub Stats
 
