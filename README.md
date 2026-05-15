@@ -24,8 +24,7 @@
 
 ##   Tech Stack
 
-![Tech](https://skillicons.dev/icons?i=android,angular,html,arduino,aws,blender,c,cpp,django,docker,express,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,photoshop,postman,python,rails,react,ts,unity,unreal,webpack,git,github,supabase,swift,Steam)
-
+![Tech](https://skillicons.dev/icons?i=androidstudio,angular,html,arduino,aws,blender,c,cpp,django,docker,express,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,node,photoshop,postman,python,rails,react,ts,unity,unreal,webpack,github,supabase,swift)
 ---
 ##   GitHub Stats
 
