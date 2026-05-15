@@ -1,0 +1,3 @@
+# Force GitHub to see these as TypeScript
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
