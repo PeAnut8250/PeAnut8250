@@ -11,7 +11,7 @@
 
 
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://my-portfolio-inky-sigma-75.vercel.app/potfolio.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sarkar-49ab00287)
