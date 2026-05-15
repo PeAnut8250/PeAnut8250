@@ -13,7 +13,7 @@
 
 ##  Connect With Me
 
-<a href="https://www.linkedin.com/in/soumya-sarkar-49ab00287"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="28" align="center"></a> &nbsp; <a href="https://discord.gg/WySQNNq"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="28" align="center"></a> &nbsp; <a href="https://github.com/Regit-Code-Org"><img src="https://simpleicons.org/icons/github.svg" height="28" align="center" style="filter: invert(100%) brightness(200%);"></a> &nbsp; <a href="mailto:soumyasarkar2003@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="28" align="center"></a> &nbsp; <a href="https://www.regitcode.in/"><img src="regitlogo.png" height="28" align="center"></a>
+<a href="https://www.linkedin.com/in/soumya-sarkar-49ab00287"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="28" align="center"></a> &nbsp; <a href="https://discord.gg/WySQNNq"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="28" align="center"></a> &nbsp; <a href="https://github.com/Regit-Code-Org"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="28" align="center" style="background-color: white; border-radius: 50%;"></a> &nbsp; <a href="mailto:soumyasarkar2003@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="28" align="center"></a> &nbsp; <a href="https://www.regitcode.in/"><img src="regitlogo.png" height="28" align="center"></a>
 ---
 
 ##   Tech Stack
