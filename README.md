@@ -34,7 +34,7 @@
 
 ##   Top Languages
 
-![Top_Languages](https://github-readme-stats-sigma-virid-53.vercel.app/api/top-langs/?username=PeANut8250&layout=compact&theme=tokyonight&count_private=true&v=1)
+![Top_Languages](https://github-readme-stats-sigma-virid-53.vercel.app/api/top-langs/?username=PeANut8250&layout=compact&theme=tokyonight&count_private=true&v=2)
 ---
 
 [![GitHub Org](https://img.shields.io/badge/Regit%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Regit-Code-Org)
