@@ -1,3 +1,5 @@
-# Force GitHub to see these as TypeScript
+regit-admin/** linguist-detectable=true
+regit-backend/** linguist-detectable=true
+regit-code/** linguist-detectable=true
 *.ts linguist-detectable=true
 *.tsx linguist-detectable=true
