@@ -14,11 +14,11 @@
 ##  Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://my-portfolio-inky-sigma-75.vercel.app/potfolio.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-sarkar-49ab00287)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WySQQNnQ)
-[![GitHub Org](https://img.shields.io/badge/Regit%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Regit-Code-Org)
-<a href="mailto:soumyasarkar2003@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="28" alt="Email" style="vertical-align:middle; margin-right: 5px;"></a>
-<a href="https://www.regitcode.in/"><img src="regitlogo.png" height="28" alt="RegitCode" style="vertical-align:middle; margin-right: 5px;"></a>
+<a href="https://www.linkedin.com/in/soumya-sarkar-49ab00287"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="28" style="vertical-align:middle; margin-right: 5px;"></a>
+<a href="https://discord.gg/WySQNNq"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="28" style="vertical-align:middle; margin-right: 5px;"></a>
+<a href="https://github.com/Regit-Code-Org"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="28" style="vertical-align:middle; margin-right: 5px;"></a>
+<a href="mailto:soumyasarkar2003@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="28" style="vertical-align:middle; margin-right: 5px;"></a>
+<a href="https://www.regitcode.in/"><img src="regitlogo.png" height="28" style="vertical-align:middle;"></a>
 
 ---
 
