@@ -4,9 +4,9 @@
 </p>
 
 ##    About Me
--   Building my own company → Regit Code  
+-   Building → Regit Code  
 -   Love connecting with new people  
--   Strong team player  
+-   Team player  
 -   Always learning and improving  
 
 
