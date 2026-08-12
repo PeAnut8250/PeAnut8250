@@ -22,7 +22,7 @@
 ---
 ##   GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PeAnut8250&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-virid-53.vercel.app/api?username=PeAnut8250&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
