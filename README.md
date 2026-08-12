@@ -9,7 +9,9 @@
 -   Team player  
 -   Always learning and improving  
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Regit+Code;Learning+and+Building+New+Things;Exploring+AI%2C+Web+%26+Systems;Turning+Ideas+Into+Projects" />
+</p>
 
 ##  Connect With Me
 
@@ -21,9 +23,6 @@
 ![Tech](https://skillicons.dev/icons?i=androidstudio,angular,html,arduino,aws,blender,c,cpp,django,docker,express,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,photoshop,postman,python,rails,react,ts,unity,unreal,webpack,github,supabase,swift)
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Regit+Code;Learning+and+Building+New+Things;Exploring+AI%2C+Web+%26+Systems;Turning+Ideas+Into+Projects" />
-</p>
 
 ##   GitHub Stats
 
